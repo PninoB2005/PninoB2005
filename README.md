@@ -4,8 +4,8 @@
 
 
 # Lenguajes de Programación
-##--Python 🐍
-##--C++    
+## --Python 🐍
+## --C++    
 
 # Frameworks
 --Django 
