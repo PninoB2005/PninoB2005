@@ -3,10 +3,6 @@
 ### Systems & Computing Engineering Student
 **Universidad Nacional de Colombia 🇨🇴**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Pablo%20Andrés%20Niño%20Barreto&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20%26%20Computing%20Engineering%20Student&descAlignY=55&descSize=18" />
-</p>
-
 ---
 
 ## 👋 About Me
@@ -26,20 +22,16 @@ knowledge to practical problems.
 
 ### Programming Languages
 
-<p>
-  🐍 Python &nbsp;&nbsp;
-  ⚡ C++ &nbsp;&nbsp;
-  🟨 JavaScript
-</p>
+- 🐍 **Python**
+- ⚡ **C++**
+- 🟨 **JavaScript**
 
 ### Tools & Technologies
 
-<p>
-  🐧 Linux &nbsp;&nbsp;
-  🔧 Git &nbsp;&nbsp;
-  🐙 GitHub &nbsp;&nbsp;
-  💻 VS Code
-</p>
+- 🐧 **Linux**
+- 🔧 **Git**
+- 🐙 **GitHub**
+- 💻 **Visual Studio Code**
 
 ---
 
@@ -56,9 +48,6 @@ knowledge to practical problems.
 ---
 
 ## 🚀 Featured Projects
-
-> Here are some of the areas I'm currently working on through
-> academic and personal projects.
 
 ### 🌳 Data Structures
 
@@ -112,10 +101,44 @@ kernel concepts and low-level programming.
 
 ## 📚 Currently Learning
 
-```text
-Python    
-C++    
-JavaScript   
-Data Science 
-Computer Networks  
-Linux              
+- 🐍 Python
+- ⚡ C++
+- 🟨 JavaScript
+- 📊 Data Science
+- 🌐 Computer Networks
+- 🐧 Linux
+
+---
+
+## 🎯 Goals
+
+- 🚀 Improve my software development skills
+- 🧠 Strengthen my knowledge of algorithms and data structures
+- 📊 Build more data science and machine learning projects
+- 🌐 Continue learning about computer networks
+- 💻 Contribute to open-source projects
+- 📚 Keep learning and building
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/pablo-andres-ni%C3%B1o-barreto-8432a21b2/">
+  LinkedIn
+</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://github.com/PninoB2005">
+  GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, building and improving one project at a time.</i>
+</p>
