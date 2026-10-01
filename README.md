@@ -135,10 +135,13 @@ kernel concepts and low-level programming.
   GitHub
 </a>
 
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="pninob@unal.edu.co">
+  Gmail
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <i>Learning, building and improving one project at a time.</i>
-</p>
